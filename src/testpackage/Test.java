@@ -13,7 +13,7 @@ public class Test {
     public static void main(String[] args){
         
         System.out.println("hello");
-        System.out.println("This is a test program to test svn");
+        System.out.println("This is a test program to test svndada");
     }
     
 }
