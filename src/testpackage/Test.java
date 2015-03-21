@@ -12,7 +12,8 @@ public class Test {
     
     public static void main(String[] args){
         
-        System.out.println("hell");
+        System.out.println("hello");
+        System.out.println("This is a test program to test svn");
     }
     
 }
